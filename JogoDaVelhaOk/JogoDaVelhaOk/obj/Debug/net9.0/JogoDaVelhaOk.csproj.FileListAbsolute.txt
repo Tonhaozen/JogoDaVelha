@@ -1,0 +1,14 @@
+C:\Users\Tonhao\Desktop\JogoDaVelhaOk\JogoDaVelhaOk\bin\Debug\net9.0\JogoDaVelhaOk.exe
+C:\Users\Tonhao\Desktop\JogoDaVelhaOk\JogoDaVelhaOk\bin\Debug\net9.0\JogoDaVelhaOk.deps.json
+C:\Users\Tonhao\Desktop\JogoDaVelhaOk\JogoDaVelhaOk\bin\Debug\net9.0\JogoDaVelhaOk.runtimeconfig.json
+C:\Users\Tonhao\Desktop\JogoDaVelhaOk\JogoDaVelhaOk\bin\Debug\net9.0\JogoDaVelhaOk.dll
+C:\Users\Tonhao\Desktop\JogoDaVelhaOk\JogoDaVelhaOk\bin\Debug\net9.0\JogoDaVelhaOk.pdb
+C:\Users\Tonhao\Desktop\JogoDaVelhaOk\JogoDaVelhaOk\obj\Debug\net9.0\JogoDaVelhaOk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tonhao\Desktop\JogoDaVelhaOk\JogoDaVelhaOk\obj\Debug\net9.0\JogoDaVelhaOk.AssemblyInfoInputs.cache
+C:\Users\Tonhao\Desktop\JogoDaVelhaOk\JogoDaVelhaOk\obj\Debug\net9.0\JogoDaVelhaOk.AssemblyInfo.cs
+C:\Users\Tonhao\Desktop\JogoDaVelhaOk\JogoDaVelhaOk\obj\Debug\net9.0\JogoDaVelhaOk.csproj.CoreCompileInputs.cache
+C:\Users\Tonhao\Desktop\JogoDaVelhaOk\JogoDaVelhaOk\obj\Debug\net9.0\JogoDaVelhaOk.dll
+C:\Users\Tonhao\Desktop\JogoDaVelhaOk\JogoDaVelhaOk\obj\Debug\net9.0\refint\JogoDaVelhaOk.dll
+C:\Users\Tonhao\Desktop\JogoDaVelhaOk\JogoDaVelhaOk\obj\Debug\net9.0\JogoDaVelhaOk.pdb
+C:\Users\Tonhao\Desktop\JogoDaVelhaOk\JogoDaVelhaOk\obj\Debug\net9.0\JogoDaVelhaOk.genruntimeconfig.cache
+C:\Users\Tonhao\Desktop\JogoDaVelhaOk\JogoDaVelhaOk\obj\Debug\net9.0\ref\JogoDaVelhaOk.dll
