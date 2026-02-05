@@ -36,7 +36,7 @@ Este projeto foi desenvolvido com foco em aprendizado e prática dos fundamentos
 
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/Tonhaozen/JogoDaVelha
 
 
 Abra o projeto em uma IDE compatível com C# (Visual Studio, VS Code, etc.)
